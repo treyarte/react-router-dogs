@@ -1,0 +1,26 @@
+.dog {
+  background-color: #00334e;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 5px -2px #393e46;
+  color: #fff;
+  width: auto;
+  display: flex;
+  /* align-content: center; */
+  flex-direction: column;
+  text-align: center;
+  margin: 2rem;
+}
+
+.dog li {
+  list-style: none;
+}
+
+.dog a {
+  text-decoration: none;
+  color: #f6f5f5;
+}
+
+.dog a:hover {
+  color: #ee6f57;
+}

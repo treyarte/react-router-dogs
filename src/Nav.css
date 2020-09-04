@@ -1,0 +1,25 @@
+.dog-nav {
+  background-color: #00334e;
+  padding: 1rem;
+}
+
+.dog-nav ul {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.dog-nav li {
+  list-style: none;
+}
+
+.dog-nav a {
+  color: #e0ece4;
+  margin: 1rem;
+  text-decoration: none;
+}
+
+.dog-nav a.active {
+  color: #ee6f57;
+}
